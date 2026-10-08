@@ -1,0 +1,2 @@
+[{'id': '000000324670', 'image': 'COCO_val2014_000000324670.jpg', 'instruction': 'Generate a short caption of the image.'}, 
+{'id': '000000464263', 'image': 'COCO_val2014_000000464263.jpg', 'instruction': 'Generate a short caption of the image.'}]

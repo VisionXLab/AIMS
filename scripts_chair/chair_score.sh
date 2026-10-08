@@ -1,0 +1,2 @@
+python chair.py \
+    --cap_file /root/msra_workspace/code/AIMS/log_qwen35/chair/greedy/cosine/qwen35vl_greedy_start2_end_32_alpha0.32__cosine_branch_v_sgm1.5_p_sgm1.2_dw1_sgm1.0_debug32/chair_eval_images_tokens_512.jsonl \

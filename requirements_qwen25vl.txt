@@ -1,0 +1,20 @@
+torch==2.5.1
+torchvision
+transformers @ git+https://github.com/huggingface/transformers.git@7aa888b7fa477d13153ffbfe107dfbd6c696014a
+accelerate
+tokenizers
+safetensors
+xformers
+
+numpy==1.26.4
+pandas
+tqdm
+requests
+
+fastapi
+uvicorn
+gradio
+
+huggingface-hub==1.0.0rc4
+qwen_vl_utils
+nltk==3.8.1

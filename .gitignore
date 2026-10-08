@@ -1,0 +1,14 @@
+# 忽略所有的 python 缓存文件
+**/__pycache__/
+*.pyc
+
+# 忽略 log 目录及其下的所有内容
+log/
+msra_log/
+log_qwen35/
+log_qwen35vl/
+log_qwen25vl/
+log_llava-1.5/
+
+# log 文件
+*.tar.gz
