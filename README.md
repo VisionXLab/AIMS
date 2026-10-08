@@ -16,7 +16,7 @@ We find that LVLMs exhibit an intrinsic **vision-attending tendency**, which can
 Based on these observations, we propose **AIMS**, a training-free method that adaptively coordinates visual, prefilled, and generated context during decoding.
 
 <p align="center">
-  <img src="compare.png" width="90%">
+  <img src="compare.svg" width="90%">
 </p>
 
 ## 🛠️ Environment
