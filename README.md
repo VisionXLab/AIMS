@@ -160,7 +160,7 @@ For environment setup and evaluation scripts, please refer to [FAITHSCORE/README
 
 The required NLTK 3.8.1 data can also be downloaded from Hugging Face:
 
-[`sharon11/aims_benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/sharon11/aims_benchmarks/tree/main/nltk_3-8-1)
+[`VisionXLab/aims_benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/sharon11/aims_benchmarks/tree/main/nltk_3-8-1)
 
 After downloading, set `NLTK_DATA` to the local path of `nltk_3-8-1` in `AMBER/inference.py`:
 
