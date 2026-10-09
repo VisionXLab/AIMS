@@ -1,10 +1,10 @@
 # Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations
 
 <p align="center">
-  <a href="YOUR_ARXIV_LINK">
+  <a href="https://arxiv.org/abs/2610.11907">
     <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv">
   </a>
-  <a href="https://huggingface.co/datasets/sharon11/aims_benchmarks/tree/main">
+  <a href="https://huggingface.co/datasets/sharon11/aims_benchmarks">
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow.svg" alt="Hugging Face">
   </a>
 </p>
