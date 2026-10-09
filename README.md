@@ -211,10 +211,13 @@ We sincerely thank the authors and contributors of the following projects and be
 ## 📚 Citation
 
 ```bibtex
-@article{aims,
-  title   = {AIMS: Adaptive Information Multi-source Steering for Hallucination Mitigation in Large Vision-Language Models},
-  author  = {...},
-  journal = {arXiv preprint},
-  year    = {2026}
+@misc{ma2026visualenhancementadaptivemulticontext,
+  title={Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations}, 
+  author={Shuran Ma and JiaLe Li and Yuxin Dong and Shan Zheng and Qingyun Jiang and Xiang Chen and Qi Zhu and Deyi Ji and Yifan Yang and Jianfeng Pan and Yu Tian and Xue Yang},
+  year={2026},
+  eprint={2610.11907},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.11907}, 
 }
 ```
