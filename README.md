@@ -4,7 +4,7 @@
   <a href="https://arxiv.org/abs/2610.11907">
     <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv">
   </a>
-  <a href="https://huggingface.co/datasets/sharon11/aims_benchmarks">
+  <a href="https://huggingface.co/datasets/VisionXLab/AIMS_Benchmarks">
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow.svg" alt="Hugging Face">
   </a>
 </p>
@@ -138,7 +138,7 @@ Except for ```FaithScore```, all evaluation scripts can be run directly in the c
 
 The required NLTK 3.8.1 data can be downloaded from Hugging Face:
 
-[`VisionXLab/AIMS_Benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/sharon11/aims_benchmarks/tree/main/nltk_3-8-1)
+[`VisionXLab/AIMS_Benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/VisionXLab/AIMS_Benchmarks/tree/main/nltk_3-8-1)
 
 After downloading, set `NLTK_DATA` to the local path of `nltk_3-8-1` in `chair.py`:
 
@@ -160,7 +160,7 @@ For environment setup and evaluation scripts, please refer to [FAITHSCORE/README
 
 The required NLTK 3.8.1 data can also be downloaded from Hugging Face:
 
-[`VisionXLab/aims_benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/sharon11/aims_benchmarks/tree/main/nltk_3-8-1)
+[`VisionXLab/AIMS_Benchmarks/nltk_3-8-1`](https://huggingface.co/datasets/VisionXLab/AIMS_Benchmarks/tree/main/nltk_3-8-1)
 
 After downloading, set `NLTK_DATA` to the local path of `nltk_3-8-1` in `AMBER/inference.py`:
 
