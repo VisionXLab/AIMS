@@ -1,13 +1,15 @@
 torch==2.5.1
-torchvision
+torchvision==0.20.1
 transformers @ git+https://github.com/huggingface/transformers.git@7aa888b7fa477d13153ffbfe107dfbd6c696014a
 accelerate
 tokenizers
 safetensors
-xformers
+# xformers
 
 numpy==1.26.4
 pandas
+matplotlib
+openpyxl
 tqdm
 requests
 
